@@ -1,1 +1,5 @@
-# Mail.com.tr---Hesap-olu-turucu
+# Mail.com.tr-Generator
+
+CapMonster api keyiniz ile hesap oluşturabilirsiniz.
+
+0,6$ 1k ReCaptcha
